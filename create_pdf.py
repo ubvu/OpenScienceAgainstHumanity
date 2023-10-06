@@ -38,13 +38,21 @@ def add_text_to_pdf(existing_pdf_path, cardcontent, output):
     can = canvas.Canvas(packet, pagesize=(box.width, box.height))
 
     # make and draw a paragraph with the text
+
+    # hacky way of determining text color
+    if 'white' in existing_pdf_path[0]:
+        textcolor = 'black'
+    else:
+        textcolor = 'white'
+
     my_Style = ParagraphStyle('My Para style',
                               fontName='Helvetica-Bold',
                               fontSize=12,
                               borderWidth=40,
                               borderPadding=40,
                               leading=20,
-                              alignment=0
+                              alignment=0,
+                              textColor=textcolor
                               )
     p1 = Paragraph(cardcontent[0], my_Style)
     w, h = p1.wrap(round(box.width), round(box.height))
@@ -71,9 +79,20 @@ def add_text_to_pdf(existing_pdf_path, cardcontent, output):
 
 existing_pdf_paths = ["Open science agains humanity - white front - 88x63.pdf",
                       "Open science agains humanity - white back - 88x63.pdf"]
-output_stream = open("Open_Science_Against_Humanity.pdf", "wb")
+output_stream = open("Open_Science_Against_Humanity_White.pdf", "wb")
 combined_pages = PdfWriter()
 with open('CardContent.csv', newline='') as csvfile:
+    cardreader = csv.reader(csvfile, delimiter=';', quotechar='|')
+    for row in cardreader:
+        combined_pages = add_text_to_pdf(existing_pdf_paths, row, combined_pages)
+    combined_pages.write(output_stream)
+    output_stream.close()
+
+existing_pdf_paths = ["Open science agains humanity - black front - 88x63.pdf",
+                      "Open science agains humanity - black back - 88x63.pdf"]
+output_stream = open("Open_Science_Against_Humanity_Black.pdf", "wb")
+combined_pages = PdfWriter()
+with open('CardContentBlack.csv', newline='') as csvfile:
     cardreader = csv.reader(csvfile, delimiter=';', quotechar='|')
     for row in cardreader:
         combined_pages = add_text_to_pdf(existing_pdf_paths, row, combined_pages)
