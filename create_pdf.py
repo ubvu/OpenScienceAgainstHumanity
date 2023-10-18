@@ -81,8 +81,10 @@ existing_pdf_paths = ["Open science agains humanity - white front - 88x63.pdf",
                       "Open science agains humanity - white back - 88x63.pdf"]
 output_stream = open("Open_Science_Against_Humanity_White.pdf", "wb")
 combined_pages = PdfWriter()
-with open('CardContent.csv', newline='') as csvfile:
-    cardreader = csv.reader(csvfile, delimiter=';', quotechar='|')
+with open('CardContentWhite.csv', newline='') as csvfile:
+    cardreader = csv.reader(csvfile, delimiter=';')
+    # This skips the first row of the CSV file.
+    next(cardreader)
     for row in cardreader:
         combined_pages = add_text_to_pdf(existing_pdf_paths, row, combined_pages)
     combined_pages.write(output_stream)
@@ -93,7 +95,9 @@ existing_pdf_paths = ["Open science agains humanity - black front - 88x63.pdf",
 output_stream = open("Open_Science_Against_Humanity_Black.pdf", "wb")
 combined_pages = PdfWriter()
 with open('CardContentBlack.csv', newline='') as csvfile:
-    cardreader = csv.reader(csvfile, delimiter=';', quotechar='|')
+    cardreader = csv.reader(csvfile, delimiter=';')
+    # This skips the first row of the CSV file.
+    next(cardreader)
     for row in cardreader:
         combined_pages = add_text_to_pdf(existing_pdf_paths, row, combined_pages)
     combined_pages.write(output_stream)
