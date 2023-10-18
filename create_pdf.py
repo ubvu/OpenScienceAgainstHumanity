@@ -1,4 +1,4 @@
-from PyPDF2 import PdfWriter, PdfReader
+from PyPDF2 import PdfWriter, PdfReader, PdfMerger
 import io
 import csv
 from reportlab.pdfgen import canvas
@@ -102,3 +102,11 @@ with open('CardContentBlack.csv', newline='') as csvfile:
         combined_pages = add_text_to_pdf(existing_pdf_paths, row, combined_pages)
     combined_pages.write(output_stream)
     output_stream.close()
+
+merger = PdfMerger()
+pdfs = ["Open_Science_Against_Humanity_Black.pdf","Open_Science_Against_Humanity_White.pdf"]
+for pdf in pdfs:
+    merger.append(pdf)
+
+merger.write("OSAgainstHumanity.pdf")
+merger.close()
