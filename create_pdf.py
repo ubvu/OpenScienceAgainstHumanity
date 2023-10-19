@@ -1,4 +1,4 @@
-from PyPDF2 import PdfWriter, PdfReader, PdfMerger
+from PyPDF2 import PdfWriter, PdfReader, PdfMerger, Transformation
 import io
 import csv
 from reportlab.pdfgen import canvas
@@ -22,6 +22,8 @@ def add_qr(url, page):
     # overlay qr code on page
     imgTemp.seek(0)
     overlay = PdfReader(imgTemp).pages[0]
+    op = Transformation().rotate(0).translate(tx=30, ty=30)
+    overlay.add_transformation(op)
     page.merge_page(overlay)
     # remove temp file
     os.remove(imgPath)
@@ -32,10 +34,9 @@ def add_text_to_pdf(existing_pdf_path, cardcontent, output):
     # read your existing PDF
     existing_pdf = PdfReader(open(existing_pdf_path[0], "rb"))
     existing_pdf_back = PdfReader(open(existing_pdf_path[1], "rb"))
-    box = existing_pdf.pages[0].mediabox
 
     packet = io.BytesIO()
-    can = canvas.Canvas(packet, pagesize=(box.width, box.height))
+    can = canvas.Canvas(packet, pagesize=(200, 250))
 
     # make and draw a paragraph with the text
 
@@ -55,9 +56,10 @@ def add_text_to_pdf(existing_pdf_path, cardcontent, output):
                               textColor=textcolor
                               )
     p1 = Paragraph(cardcontent[0], my_Style)
-    w, h = p1.wrap(round(box.width), round(box.height))
+    w, h = p1.wrap(180, round(250))
     p1.wrapOn(can, w - 40, h - 10)
-    p1.drawOn(can, round(box.width) - w + 30, round(box.height) - h - 70)
+
+    p1.drawOn(can, 200 - w + 40, 250 - h - 70)
     can.save()
 
     # move to the beginning of the StringIO buffer
