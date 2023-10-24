@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/10017281.svg)](https://zenodo.org/doi/10.5281/zenodo.10017281)
+
+
 # OpenScienceAgainstHumanity
 Cards and code to create cards for Open Science Against Humanity.
 
