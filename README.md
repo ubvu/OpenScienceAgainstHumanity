@@ -4,7 +4,7 @@
 
 # OpenScienceAgainstHumanity
 Cards and code to create cards for Open Science Against Humanity.
-
+This game can be played in person or online. If you are interested in the printed game, please reach out to us (rdm@vu.nl)
 
 
 # How to Play
@@ -23,3 +23,25 @@ Optional bonus points: After each round, when all the white cards have been reve
 The role of the Reviewer is passed on clockwise after every turn. Play until there are no more black cards outside the box. If you run out of white cards, shuffle the discard pile and draw from those. Whoever has the most citation points at the end of the game wins!
 
 
+# Playing online
+
+You can play with the Open Science Against Humanity deck <a href="https://md.rereadgames.com/" target="_blank">here</a>.
+
+Fill in your name and click on "Play":
+
+<img src="images/OnlineInstructions1.png" width="50%" height="50%">
+
+In the "Deck Source" dropdown menu select "Many Decks" and for the deck code use "O3860". Next click on the "+" to add the deck.
+Optional adjustments in the rules and time limits are possible if you have specific preferences.
+
+<img src="images/OnlineInstructions2.png" width="50%" height="50%">
+
+Next click on the :loudspeaker: to invite 2 or 3 other players to the game.
+Once they join, you can start the game!
+
+When you start playing, the rules described in the section above "How to play" apply.
+
+Note that when playing online, you can't actually "see" whether someone played a card, is thinking. Or who is the Reviewer and who is playing (if you are reviewing, you can't play a card!).
+If you click on the top left "Show or hide the scoreboard", you can see the status and roles during each round. But also, don't forget to keep talking to each other :game_die: :ghost: :smiley: :game_die:
+
+<img src="images/OnlineInstructions3.png" width="50%" height="50%">
