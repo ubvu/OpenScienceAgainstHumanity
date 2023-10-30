@@ -50,4 +50,18 @@ Optional bonus points: After each round, when all the white cards have been reve
 
 The role of the Reviewer is passed on clockwise after every turn. Play until there are no more black cards outside the box. If you run out of white cards, shuffle the discard pile and draw from those. Whoever has the most citation points at the end of the game wins!
 
+# Acknowledgements
 
+This game was created by the **GHOST Collective**, Games of Horror for Open Science Training. GHOST includes:
+
+- Tycho Hofstra, Vrije Universiteit Amsterdam 
+- Lena Karvovskaya, Vrije Universiteit Amsterdam 
+- Elisa Rodenburg, Vrije Universiteit Amsterdam 
+- Stephanie van de Sandt, Vrije Universiteit Amsterdam 
+- Meron Vermaas, Vrije Universiteit Amsterdam 
+- Dan Rudmann, Leiden University 
+- Lieke de Boer, Netherlands eScience Center
+- Eva Lekkerkerker, University of Amsterdam 
+- Stefan Kirsch, Tilburg University 
+
+Previous GHOST collective games include the [Software Horror Escape Room](https://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html) and [Data Horror Escape Room](https://sites.google.com/vu.nl/datahorror/home?authuser=0)
