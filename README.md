@@ -5,7 +5,7 @@
 
 
 # OpenScienceAgainstHumanity
-Cards and code to create cards for Open Science Against Humanity.
+Cards and code to create cards for Open Science Against Humanity. Open Science Against Humanity is based on Cards Against Humanity, which was released under a Creative Commons BY-NC-SA 2.0 license (https://creativecommons.org/licenses/by-nc-sa/2.0/).
 This game can be played in person or online. If you are interested in the printed game, please reach out to us (rdm@vu.nl)
 
 # Goal of the Game
