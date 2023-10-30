@@ -1,6 +1,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10017281.svg)](https://doi.org/10.5281/zenodo.10017281)
 
 
+<img src="images/GHOST.gif" width="20%" height="20%" align="right">
+
 
 # OpenScienceAgainstHumanity
 Cards and code to create cards for Open Science Against Humanity.
