@@ -64,4 +64,4 @@ This game was created by the **GHOST Collective**, Games of Horror for Open Scie
 - Eva Lekkerkerker, University of Amsterdam 
 - Stefan Kirsch, Tilburg University 
 
-Previous GHOST collective games include the [Software Horror Escape Room](https://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html) and [Data Horror Escape Room](https://sites.google.com/vu.nl/datahorror/home?authuser=0)
+Previous GHOST collective games include the [Software Horror Escape Room](https://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html), the [Open Science Escape Room](https://sites.google.com/vu.nl/open-science-escape-room)  and [Data Horror Escape Room](https://sites.google.com/vu.nl/datahorror/home?authuser=0)
