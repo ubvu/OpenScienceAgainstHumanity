@@ -1,60 +1,81 @@
-﻿Text;Link
-Fighting open science with open science;
-Peer-reviewed cat memes;https://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html
-AI-generated research papers;https://www.nature.com/articles/d41586-023-02218-z
-A lab meeting interrupted by a surprise llama;https://howtocatchallama.com/
-A "Publish First, Ask Questions Later" approach;
-Diederik Stapel;https://retractionwatch.com/2016/09/13/no-teaching-post-for-fraudster-diederik-stapel-after-all/#more-44194
-Your mom calling you by your ORCiD;https://info.orcid.org/researchers/
-Confidently ignoring all inquiries of groups trying to replicate my research;
-Being a failure in the eyes of everyone I care about because I am only the second author;
-Getting exactly 0 citations for my replication study;"https://www.science.org/doi/10.1126/sciadv.abd1705"
-Waiting until my paper gets retracted because some rando finds a bug in my code;https://twitter.com/lakens/status/1542018352968863745?s=20
-Your data getting scooped before you can say open sci...;https://quantpalaeo.wordpress.com/2018/02/26/been-scooped-a-discussion-on-data-stewardship/
-Having a little cry on the toilet;
-Buggy research software collecting dust in a private repository until the heat death of the universe;https://blog.esciencecenter.nl/researchers-are-not-born-engineers-why-are-they-expected-to-know-how-to-code-1eeb5c3d03c0
-Realizing that your research is unique, your data is unique and your greatness is the most unique of them all;
-Making ALL your data public (with a short embargo of 50 years);
-Selling our inventions to the journal Frontiers in Hell;https://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html
-Nobody in my field caring about it;https://blogs.lse.ac.uk/impactofsocialsciences/2014/04/23/academic-papers-citation-rates-remler/
-My 30+ years of experience as a researcher;
-The upcoming publication deadline;
-Sexy state secrets;
-An Attribution-NonCommercial-ShareAlike 4.0 International license;https://creativecommons.org/choose/
-Turning in your final version for the fourteenth time;https://phdcomics.com/comics/archive_print.php?comicid=1531
-Good practice;
-Financing the CEO of Elsevier's fourth boat;https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science
-Teaching preteens how to build a nuclear bomb;
-Feeding the trolls with another paper they can cherry pick the s*** out of;https://blogs.lse.ac.uk/impactofsocialsciences/2018/01/11/new-research-must-be-better-reported-the-future-of-society-depends-on-it/
-The press reducing my nuanced findings to a flashy headline;https://www.smbc-comics.com/comic/science-journalism
-Asking 1800 euro to put a PDF online;https://www.youtube.com/watch?v=8F9gzQz1Pms
-Generations of ill-informed decision making because of walled-off flawed research;https://www.nature.com/articles/nature.2015.18248
-Spaghetti code and broken dreams;https://blog.esciencecenter.nl/researchers-are-not-born-engineers-why-are-they-expected-to-know-how-to-code-1eeb5c3d03c0
-Endless bug fixes;https://the-turing-way.netlify.app/reproducible-research/testing
-"git blame" sessions;https://dev.to/sanspanic/blaming-git-blame-1f4o
-Code review therapy sessions;https://www.software.ac.uk/blog/2022-03-18-treat-your-research-code-code-review#:~:text=Code%20Review%20is%20a%20software,different%20from%20academic%20peer%20review.
-Committing without testing;https://the-turing-way.netlify.app/reproducible-research/testing/testing-checklist
-An infinite `for` loop;
-Copy-pasting all your respondents sensitive data into chatGPT to make a pretty boxplot;https://arxiv.org/pdf/2309.17410.pdf
-Being expected to never make mistakes in your research... ever!;
-Conveniently excluding some test subjects;https://www.mareonline.nl/en/news/psychologist-committed-fraud-in-15-articles-how-test-subjects-kept-disappearing/
-Threatening your participants into providing useful data;
-Just science done wrong;
-Well-cited studies with 50 failed replication attempts;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8139580/
-Citizen scientists breaking the only working printer;
-Mugs of coffee at 3 am;
-Making my research open and reproducible while my competitors are p-hacking their way into the big journals;https://embassy.science/wiki/Theme:6b584d4e-2c9d-4e27-b370-5fbdb983ab46
-Impact factors;
-Predatory journals;https://thinkchecksubmit.org/
-Sacrificing the intern;
-Flawless replication;
-A USB-stick full of sensitive data;https://www.rug.nl/digital-competence-centre/privacy-and-data-protection/data-protection/data-leak?lang=en
-Leaving academics to become a beet farmer;"https://media.giphy.com/media/dXf93EHY6advUBYC0u/giphy.gif"
-The effects of moon phases on stock market trends;
-scriptA_001_final_new_after_feedback_actually_final2.R;https://r-bio.github.io/intro-git-rstudio/
-Smashing things together until results fall out;
-Coffee stained data management plans;
-Post-its with 'pls do not steal thx' as a license;https://zenodo.org/record/2248200
-The FAIRy spreading her FAIRy principles all over our data in the night;https://www.go-fair.org/fair-principles/
-Workload piling up and sanity breaking down;https://www.go-fair.org/fair-principles/r1-1-metadata-released-clear-accessible-data-usage-license/
-Being an expert in your field AND data management AND ethics AND software development AND public engagement AND ...;https://blog.esciencecenter.nl/researchers-are-not-born-engineers-why-are-they-expected-to-know-how-to-code-1eeb5c3d03c0
+text,link,new
+"Fighting open science with open science","https://forrt.org/glossary/english/open_washing/",FALSE
+"Peer-reviewed cat memes","https://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html",FALSE
+"AI-generated research papers","https://www.nature.com/articles/d41586-023-02218-z",FALSE
+"A lab meeting interrupted by a surprise llama","https://howtocatchallama.com/",FALSE
+"A 'Publish First, Ask Questions Later' approach","",FALSE
+"Diederik Stapel","https://retractionwatch.com/2016/09/13/no-teaching-post-for-fraudster-diederik-stapel-after-all/#more-44194",FALSE
+"Your mom calling you by your ORCiD","https://info.orcid.org/researchers/",FALSE
+"Confidently ignoring all inquiries of groups trying to replicate my research","",FALSE
+"Being a failure in the eyes of everyone I care about because I am only the second author","",FALSE
+"Getting exactly 0 citations for my replication study","https://www.science.org/doi/10.1126/sciadv.abd1705",FALSE
+"Waiting until my paper gets retracted because some rando finds a bug in my code","https://twitter.com/lakens/status/1542018352968863745?s=20",FALSE
+"Your data getting scooped before you can say open sci...","https://quantpalaeo.wordpress.com/2018/02/26/been-scooped-a-discussion-on-data-stewardship/",FALSE
+"Having a little cry on the toilet","",FALSE
+"Buggy research software collecting dust in a private repository until the heat death of the universe","https://blog.esciencecenter.nl/researchers-are-not-born-engineers-why-are-they-expected-to-know-how-to-code-1eeb5c3d03c0",FALSE
+"Realizing that your research is unique, your data is unique and your greatness is the most unique of them all","",FALSE
+"Making ALL your data public (with a short embargo of 50 years)","",FALSE
+"Selling our inventions to the journal Frontiers in Hell","https://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html",FALSE
+"Nobody in my field caring about it","https://blogs.lse.ac.uk/impactofsocialsciences/2014/04/23/academic-papers-citation-rates-remler/",FALSE
+"My 30+ years of experience as a researcher","",FALSE
+"The upcoming publication deadline","",FALSE
+"Sexy state secrets","",FALSE
+"An Attribution-NonCommercial-ShareAlike 4.0 International license","https://creativecommons.org/choose/",FALSE
+"Turning in your final version for the fourteenth time","https://phdcomics.com/comics/archive_print.php?comicid=1531",FALSE
+"Good practice","",FALSE
+"Financing the CEO of Elsevier's fourth boat","https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science",FALSE
+"Teaching preteens how to build a nuclear bomb","",FALSE
+"Feeding the trolls with another paper they can cherry pick the s*** out of","https://blogs.lse.ac.uk/impactofsocialsciences/2018/01/11/new-research-must-be-better-reported-the-future-of-society-depends-on-it/",FALSE
+"The press reducing my nuanced findings to a flashy headline","https://www.smbc-comics.com/comic/science-journalism",FALSE
+"Asking 1800 euro to put a PDF online","https://www.youtube.com/watch?v=8F9gzQz1Pms",FALSE
+"Generations of ill-informed decision making because of walled-off flawed research","https://www.nature.com/articles/nature.2015.18248",FALSE
+"Spaghetti code and broken dreams","https://blog.esciencecenter.nl/researchers-are-not-born-engineers-why-are-they-expected-to-know-how-to-code-1eeb5c3d03c0",FALSE
+"Endless bug fixes","https://the-turing-way.netlify.app/reproducible-research/testing",FALSE
+"'git blame' sessions","https://dev.to/sanspanic/blaming-git-blame-1f4o",FALSE
+"Code review therapy sessions","https://www.software.ac.uk/blog/2022-03-18-treat-your-research-code-code-review#:~:text=Code%20Review%20is%20a%20software,different%20from%20academic%20peer%20review.",FALSE
+"Committing without testing","https://the-turing-way.netlify.app/reproducible-research/testing/testing-checklist",FALSE
+"An infinite `for` loop","",FALSE
+"Copy-pasting all your respondents sensitive data into chatGPT to make a pretty boxplot","https://arxiv.org/pdf/2309.17410.pdf",FALSE
+"Being expected to never make mistakes in your research... ever!","",FALSE
+"Conveniently excluding some test subjects","https://www.mareonline.nl/en/news/psychologist-committed-fraud-in-15-articles-how-test-subjects-kept-disappearing/",FALSE
+"Threatening your participants into providing useful data","",FALSE
+"Just science done wrong","",FALSE
+"Well-cited studies with 50 failed replication attempts","https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8139580/",FALSE
+"Citizen scientists breaking the only working printer","",FALSE
+"Mugs of coffee at 3 am","",FALSE
+"Making my research open and reproducible while my competitors are p-hacking their way into the big journals","https://embassy.science/wiki/Theme:6b584d4e-2c9d-4e27-b370-5fbdb983ab46",FALSE
+"Impact factors","",FALSE
+"Predatory journals","https://thinkchecksubmit.org/",FALSE
+"Sacrificing the intern","",FALSE
+"Flawless replication","",FALSE
+"A USB-stick full of sensitive data","https://www.rug.nl/digital-competence-centre/privacy-and-data-protection/data-protection/data-leak?lang=en",FALSE
+"Leaving academics to become a beet farmer","https://media.giphy.com/media/dXf93EHY6advUBYC0u/giphy.gif",FALSE
+"The effects of moon phases on stock market trends","",FALSE
+"scriptA_001_final_new_after_feedback_actually_final2.R","https://r-bio.github.io/intro-git-rstudio/",FALSE
+"Smashing things together until results fall out","",FALSE
+"Coffee stained data management plans","",FALSE
+"Post-its with 'pls do not steal thx' as a license","https://zenodo.org/record/2248200",FALSE
+"The FAIRy spreading her FAIRy principles all over our data in the night","https://www.go-fair.org/fair-principles/",FALSE
+"Workload piling up and sanity breaking down","https://www.go-fair.org/fair-principles/r1-1-metadata-released-clear-accessible-data-usage-license/",FALSE
+"Being an expert in your field AND data management AND ethics AND software development AND public engagement AND ...","https://blog.esciencecenter.nl/researchers-are-not-born-engineers-why-are-they-expected-to-know-how-to-code-1eeb5c3d03c0",FALSE
+"A python 2.7 script I inherited from a previous PhD student who left 10 years ago","https://book.the-turing-way.org/collaboration/new-community/new-community-techissues.html?highlight=legacy#reproducibility-is-even-more-important",TRUE
+"A machine that's still running on Windows 95","",TRUE
+"3 hours of an troubleshooting a missing comma","",TRUE
+"Dockerizing my PhD's precarious working conditions","https://book.the-turing-way.org/reproducible-research/renv/renv-containers.html",TRUE
+"Sending users to 'users/One Drive/C:/Documents/projects/grant-projects/old-grants/ERC/pilot1/'","",TRUE
+"Sofware maintained by a lonely Belgian professor","https://lavaan.ugent.be/about/about.html",TRUE
+"A tiny shell script that replaces my job","",TRUE
+"Coding with my crush","",TRUE
+"Sending code around via e-mail","",TRUE
+"Being accused of Marxist tendencies","https://www.tandfonline.com/doi/full/10.1080/02691728.2022.2156308",TRUE
+"Ignoring the 10k issues users submitted to my OS project","",TRUE
+"Citing stackoverflow in your research paper","",TRUE
+"Code that explains itself","",TRUE
+"The holy grail of clean code","",TRUE
+"chatGPT","",TRUE
+"Rubber duck debugging","",TRUE
+"Putting a plain-text personal access token on GitHub","",TRUE
+"(sudo) rm -r /","",TRUE
+"Untested code generated by an LLM","https://www.itworldcanada.com/post/research-raises-concerns-over-ai-impact-on-code-quality",TRUE
+"The university suing us for making our code publicly available.","https://fair-software.nl/recommendations/license",TRUE
+"Where code goes to die","https://www.metabase.com/blog/bus-factor",TRUE
