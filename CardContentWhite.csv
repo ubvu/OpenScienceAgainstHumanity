@@ -60,7 +60,7 @@ text,link,new
 "Being an expert in your field AND data management AND ethics AND software development AND public engagement AND ...","https://blog.esciencecenter.nl/researchers-are-not-born-engineers-why-are-they-expected-to-know-how-to-code-1eeb5c3d03c0",FALSE
 "A python 2.7 script I inherited from a previous PhD student who left 10 years ago","https://book.the-turing-way.org/collaboration/new-community/new-community-techissues.html?highlight=legacy#reproducibility-is-even-more-important",TRUE
 "A machine that's still running on Windows 95","",TRUE
-"3 hours of an troubleshooting a missing comma","",TRUE
+"3 hours of troubleshooting a missing comma","",TRUE
 "Dockerizing my PhD's precarious working conditions","https://book.the-turing-way.org/reproducible-research/renv/renv-containers.html",TRUE
 "Sending users to 'users/One Drive/C:/Documents/projects/grant-projects/old-grants/ERC/pilot1/'","",TRUE
 "Sofware maintained by a lonely Belgian professor","https://lavaan.ugent.be/about/about.html",TRUE
