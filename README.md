@@ -73,20 +73,12 @@ If you click on the top left "Show or hide the scoreboard", you can see the stat
 
 ## Acknowledgements
 
-This game was created by the **GHOST Collective**, Games of Horror for Open Science Training. GHOST includes:
-
-- Tycho Hofstra, Vrije Universiteit Amsterdam
-- Lena Karvovskaya, Vrije Universiteit Amsterdam
-- Elisa Rodenburg, Vrije Universiteit Amsterdam
-- Stephanie van de Sandt, Vrije Universiteit Amsterdam
-- Meron Vermaas, Vrije Universiteit Amsterdam
-- Dan Rudmann, Leiden University
-- Lieke de Boer, Netherlands eScience Center
-- Eva Lekkerkerker, University of Amsterdam
-- Stefan Kirsch, Tilburg University
-
-Previous GHOST collective games include the [Software Horror Escape Room](https://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html), the [Open Science Escape Room](https://sites.google.com/vu.nl/open-science-escape-room)  and [Data Horror Escape Room](https://sites.google.com/vu.nl/datahorror/home?authuser=0)
-
 Watch closely 🕵️‍♀️ All cards that have the NL-RSE logo on it were thought of by the community during a session on the [National Research Software Day 2024](https://www.esciencecenter.nl/national-research-software-day-2024/).
 
 <img src="nlrse_whitelogo.png" width="15%" height="15%">
+
+This game was created by the **GHOST Collective**, Games of Horror for Open Science Training. You can find a continuously updates list of all our contributors [on our website](https://ghostcollective.github.io/).
+
+Previous GHOST collective games can be found [here](https://ghostcollective.github.io/games.html). These include physical and online card games as well as online escape rooms.
+
+*Made with ♥ and Open Science*
