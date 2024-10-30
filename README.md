@@ -78,4 +78,4 @@ Previous GHOST collective games include the [Software Horror Escape Room](https:
 
 Watch closely 🕵️‍♀️ All cards that have the NL-RSE logo on it were thought of by the community during a session on the [National Research Software Day 2024](https://www.esciencecenter.nl/national-research-software-day-2024/).
 
-<img src="nlrse_whitelogo.png" width="30%" height="30%">
+<img src="nlrse_whitelogo.png" width="15%" height="15%">
