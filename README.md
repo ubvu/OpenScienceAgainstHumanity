@@ -1,8 +1,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10017280.svg)](https://doi.org/10.5281/zenodo.10017280)
 
-
 <img src="images/GHOST.gif" width="20%" height="20%" align="right">
 
+# Open Science Against Humanity
 
 Cards and code to create cards for Open Science Against Humanity.
 
@@ -10,19 +10,19 @@ Open Science Against Humanity is based on Cards Against Humanity, which was rele
 
 The [NL-RSE](https://nl-rse.org/)-logo was originally created by [@ctwhome](https://www.ctwhome.com) and licensed under XXX. We made some adjustments to the original logo to make it blend better with the aesthetic of the overall game.
 
-# OpenScienceAgainstHumanity
 The code for generating the cards is licensed under the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).
 
 This game can be played in person or online. If you are interested in the printed game, please [reach out](rdm@vu.nl) to us!
 
 # Goal of the Game
+
 The goal of the game is to pair the white cards (prompts) and the black cards in the funniest, most provocative, or smartest way you can.
 
 # Playing online
 
 You can play with the Open Science Against Humanity deck <a href="https://md.rereadgames.com/" target="_blank">here</a>.
 
-One player needs to start the game and invite the others. To do so, fill in one name and click on "Play". 
+One player needs to start the game and invite the others. To do so, fill in one name and click on "Play".
 
 <img src="images/OnlineInstructions1.png" width="50%" height="50%">
 
@@ -37,12 +37,11 @@ Once they join, you can start the game!
 
 When you start playing, the rules described in the section above "How to play" apply.
 
-Note that when playing online, you can't actually "see" whether someone played a card, is thinking. Or who is the Reviewer and who is playing (if you are reviewing, you can't play a card!). If you are confused about what is happening, press the "?" at the top of the game window. The game will tell you what your role is and what you are supposed to do. If you are playing and have selected a card, do not forget to press the check mark at the bottom right of the screen to send the card to the pile of played cards. 
+Note that when playing online, you can't actually "see" whether someone played a card, is thinking. Or who is the Reviewer and who is playing (if you are reviewing, you can't play a card!). If you are confused about what is happening, press the "?" at the top of the game window. The game will tell you what your role is and what you are supposed to do. If you are playing and have selected a card, do not forget to press the check mark at the bottom right of the screen to send the card to the pile of played cards.
 
 If you click on the top left "Show or hide the scoreboard", you can see the status and roles during each round. But also, don't forget to keep talking to each other :game_die: :ghost: :smiley: :game_die:
 
 <img src="images/OnlineInstructions3.png" width="50%" height="50%">
-
 
 # How to Play
 
@@ -61,14 +60,14 @@ The role of the Reviewer is passed on clockwise after every turn. Play until the
 
 This game was created by the **GHOST Collective**, Games of Horror for Open Science Training. GHOST includes:
 
-- Tycho Hofstra, Vrije Universiteit Amsterdam 
-- Lena Karvovskaya, Vrije Universiteit Amsterdam 
-- Elisa Rodenburg, Vrije Universiteit Amsterdam 
-- Stephanie van de Sandt, Vrije Universiteit Amsterdam 
-- Meron Vermaas, Vrije Universiteit Amsterdam 
-- Dan Rudmann, Leiden University 
+- Tycho Hofstra, Vrije Universiteit Amsterdam
+- Lena Karvovskaya, Vrije Universiteit Amsterdam
+- Elisa Rodenburg, Vrije Universiteit Amsterdam
+- Stephanie van de Sandt, Vrije Universiteit Amsterdam
+- Meron Vermaas, Vrije Universiteit Amsterdam
+- Dan Rudmann, Leiden University
 - Lieke de Boer, Netherlands eScience Center
-- Eva Lekkerkerker, University of Amsterdam 
-- Stefan Kirsch, Tilburg University 
+- Eva Lekkerkerker, University of Amsterdam
+- Stefan Kirsch, Tilburg University
 
 Previous GHOST collective games include the [Software Horror Escape Room](https://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html), the [Open Science Escape Room](https://sites.google.com/vu.nl/open-science-escape-room)  and [Data Horror Escape Room](https://sites.google.com/vu.nl/datahorror/home?authuser=0)
