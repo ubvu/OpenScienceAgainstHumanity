@@ -75,3 +75,7 @@ This game was created by the **GHOST Collective**, Games of Horror for Open Scie
 - Stefan Kirsch, Tilburg University
 
 Previous GHOST collective games include the [Software Horror Escape Room](https://nlesc.github.io/softwarehorrorgame/SoftwareHorrorGame.html), the [Open Science Escape Room](https://sites.google.com/vu.nl/open-science-escape-room)  and [Data Horror Escape Room](https://sites.google.com/vu.nl/datahorror/home?authuser=0)
+
+Watch closely 🕵️‍♀️ All cards that have the NL-RSE logo on it were thought of by the community during a session on the [National Research Software Day 2024](https://www.esciencecenter.nl/national-research-software-day-2024/).
+
+<img src="nlrse_whitelogo.png" width="30%" height="30%">
