@@ -4,9 +4,16 @@
 <img src="images/GHOST.gif" width="20%" height="20%" align="right">
 
 
+Cards and code to create cards for Open Science Against Humanity.
+
+Open Science Against Humanity is based on Cards Against Humanity, which was released under a [Creative Commons BY-NC-SA 2.0 license](https://creativecommons.org/licenses/by-nc-sa/2.0/).
+
+The [NL-RSE](https://nl-rse.org/)-logo was originally created by [@ctwhome](https://www.ctwhome.com) and licensed under XXX. We made some adjustments to the original logo to make it blend better with the aesthetic of the overall game.
+
 # OpenScienceAgainstHumanity
-Cards and code to create cards for Open Science Against Humanity. Open Science Against Humanity is based on Cards Against Humanity, which was released under a Creative Commons BY-NC-SA 2.0 license (https://creativecommons.org/licenses/by-nc-sa/2.0/).
-This game can be played in person or online. If you are interested in the printed game, please reach out to us (rdm@vu.nl)
+The code for generating the cards is licensed under the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).
+
+This game can be played in person or online. If you are interested in the printed game, please [reach out](rdm@vu.nl) to us!
 
 # Goal of the Game
 The goal of the game is to pair the white cards (prompts) and the black cards in the funniest, most provocative, or smartest way you can.
