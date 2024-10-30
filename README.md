@@ -27,13 +27,14 @@ You can play with the Open Science Against Humanity deck <a href="https://md.rer
 
 One player needs to start the game and invite the others. To do so, fill in one name and click on "Play".
 
-<img src="images/OnlineInstructions1.png" width="50%" height="50%">
+![](images/OnlineInstructions1.png)
 
 In the "Deck Source" dropdown menu select **Many Decks** and for the deck code use **O3860**. Next click on the "+" to add the deck. You will receive a game code that you can share with fellow players. They can join the game by going to https://md.rereadgames.com/games/[game code]
 
 Note that optional adjustments in the rules and time limits are possible if you have specific preferences.
 
-<img src="images/OnlineInstructions2.png" width="50%" height="50%">
+![](images/OnlineInstructions2.png)
+
 
 Next click on the :loudspeaker: to invite 2 or 3 other players to the game.
 Once they join, you can start the game!
@@ -44,7 +45,7 @@ Note that when playing online, you can't actually "see" whether someone played a
 
 If you click on the top left "Show or hide the scoreboard", you can see the status and roles during each round. But also, don't forget to keep talking to each other :game_die: :ghost: :smiley: :game_die:
 
-<img src="images/OnlineInstructions3.png" width="50%" height="50%">
+![](images/OnlineInstructions3.png)
 
 # How to Play
 
