@@ -9,12 +9,6 @@
 Yes, the title is ironic. This game is all about exploring **Open Science** in a fun, interactive way—celebrating its incredible potential (*for* humanity) while also unpacking its challenges and pitfalls. Our goal is to spark curiosity, foster learning, all to make the research game more [**FAIR**](https://www.go-fair.org/fair-principles/).
 Are you ready to play, learn, and laugh your way through the world of **Open Science**?🙌
 
-Open Science Against Humanity is based on Cards Against Humanity, which was released under a [Creative Commons BY-NC-SA 2.0 license](https://creativecommons.org/licenses/by-nc-sa/2.0/).
-
-The [NL-RSE](https://nl-rse.org/)-logo was originally created by [@ctwhome](https://www.ctwhome.com) and licensed under XXX. We made some adjustments to the original logo to make it blend better with the aesthetic of the overall game.
-
-The code for generating the cards is licensed under the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).
-
 This game can be played in person or online. If you are interested in the printed game, please [reach out](rdm@vu.nl) to us!
 
 ## Goal of the Game
@@ -70,6 +64,14 @@ Note that when playing online, you can't actually "see" whether someone played a
 If you click on the top left "Show or hide the scoreboard", you can see the status and roles during each round. But also, don't forget to keep talking to each other :game_die: :ghost: :smiley: :game_die:
 
 ![](images/OnlineInstructions3.png)
+
+## Licenses
+
+Open Science Against Humanity is based on Cards Against Humanity, which was released under a [Creative Commons BY-NC-SA 2.0 license](https://creativecommons.org/licenses/by-nc-sa/2.0/).
+
+The [NL-RSE](https://nl-rse.org/)-logo was originally created by [@ctwhome](https://www.ctwhome.com) and licensed under XXX. We made some adjustments to the original logo to make it blend better with the aesthetic of the overall game.
+
+The code for generating the cards is licensed under the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).
 
 ## Acknowledgements
 
