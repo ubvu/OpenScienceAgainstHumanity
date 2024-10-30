@@ -38,18 +38,27 @@ The role of the Reviewer is passed on clockwise after every turn. Play until the
 
 ## Playing online
 
-You can play with the Open Science Against Humanity deck <a href="https://md.rereadgames.com/" target="_blank">here</a>.
+You can play the game with the "Open Science Against Humanity" deck <a href="https://md.rereadgames.com/" target="_blank">here</a> on Massive Decks.
 
 One player needs to start the game and invite the others. To do so, fill in one name and click on "Play".
 
 ![](images/OnlineInstructions1.png)
 
-In the "Deck Source" dropdown menu select **Many Decks** and for the deck code use **O3860**. Next click on the "+" to add the deck. You will receive a game code that you can share with fellow players. They can join the game by going to https://md.rereadgames.com/games/[game code]
+In the "Deck Source" dropdown menu select **Many Decks** and for the deck code use the one below.
+
+```
+O3860
+```
+
+Next click on the "+" to add the deck. You will receive a game code that you can share with fellow players. They can join the game by going to:
+
+```
+https://md.rereadgames.com/games/[game code]
+```
 
 Note that optional adjustments in the rules and time limits are possible if you have specific preferences.
 
 ![](images/OnlineInstructions2.png)
-
 
 Next click on the :loudspeaker: to invite 2 or 3 other players to the game.
 Once they join, you can start the game!
