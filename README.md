@@ -23,7 +23,7 @@ The goal of the game is to pair the white cards (prompts) and the black cards in
 
 ## How to Play
 
-This game can be played with the physical cards and online. To learn how, check out [#Playing online](#playing-online)
+This game can be played with the physical cards and online. To learn how to play the game online, check out [this section](#playing-online).
 
 🧍3+ players		⏰ 5 minutes - 24 hours	🏋️ difficulty level: researcher friendly
 
