@@ -4,7 +4,10 @@
 
 # Open Science Against Humanity
 
-Cards and code to create cards for Open Science Against Humanity.
+**Welcome to the Second Edition of "Open Science Against Humanity"!**
+
+Yes, the title is ironic. This game is all about exploring **Open Science** in a fun, interactive way—celebrating its incredible potential (*for* humanity) while also unpacking its challenges and pitfalls. Our goal is to spark curiosity, foster learning, all to make the research game more [**FAIR**](https://www.go-fair.org/fair-principles/).
+Are you ready to play, learn, and laugh your way through the world of **Open Science**?🙌
 
 Open Science Against Humanity is based on Cards Against Humanity, which was released under a [Creative Commons BY-NC-SA 2.0 license](https://creativecommons.org/licenses/by-nc-sa/2.0/).
 
