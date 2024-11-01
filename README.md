@@ -69,7 +69,7 @@ If you click on the top left "Show or hide the scoreboard", you can see the stat
 
 Open Science Against Humanity is based on Cards Against Humanity, which was released under a [Creative Commons BY-NC-SA 2.0 license](https://creativecommons.org/licenses/by-nc-sa/2.0/).
 
-The [NL-RSE](https://nl-rse.org/)-logo was originally created by [@ctwhome](https://www.ctwhome.com) and licensed under XXX. We made some adjustments to the original logo to make it blend better with the aesthetic of the overall game.
+The [NL-RSE](https://nl-rse.org/)-logo was originally created by [@ctwhome](https://www.ctwhome.com) and licensed under [Creative Commons BY-NC-SA 2.0 license](https://creativecommons.org/licenses/by-nc-sa/2.0/). We made some adjustments to the original logo to make it blend better with the aesthetic of the overall game.
 
 The code for generating the cards is licensed under the [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).
 
