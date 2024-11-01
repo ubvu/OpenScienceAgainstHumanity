@@ -8,6 +8,19 @@ import segno
 import os
 
 
+def add_nlrse(page, imgPath):
+    imgTemp = io.BytesIO()
+    imgDoc = canvas.Canvas(imgTemp)
+    # Draw image on Canvas and save PDF in buffer
+    imgDoc.drawImage(imgPath, 5, 5, 30, 30)  ## at (5,5) with size 10x10
+    imgDoc.save()
+    # overlay qr code on page
+    imgTemp.seek(0)
+    overlay = PdfReader(imgTemp).pages[0]
+    op = Transformation().rotate(0).translate(tx=30, ty=230)
+    overlay.add_transformation(op)
+    page.merge_page(overlay)
+    return page
 def add_qr(url, page):
     # create a qr code and write to tmp file
     qrcode = segno.make_qr(url)
@@ -71,8 +84,14 @@ def add_text_to_pdf(existing_pdf_path, cardcontent, output):
     page = existing_pdf.pages[0]
     page.merge_page(new_pdf.pages[0])
     # if available, add QR code
-    if len(cardcontent) == 2 and cardcontent[1] != '':
+    if len(cardcontent) == 3 and cardcontent[1] != '':
         page = add_qr(cardcontent[1], page)
+    if len(cardcontent) == 3 and cardcontent[2] == "TRUE":
+        if 'white' in existing_pdf_path[0]:
+            imgPath = "nlrse_whitelogo.png"
+        else:
+            imgPath = "nlrse_blacklogo.png"
+        page = add_nlrse(page,imgPath)
     # add front and back of card
     output.add_page(existing_pdf_back.pages[0])
     output.add_page(page)
@@ -84,7 +103,7 @@ existing_pdf_paths = ["Open science agains humanity - white front - 88x63.pdf",
 output_stream = open("Open_Science_Against_Humanity_White.pdf", "wb")
 combined_pages = PdfWriter()
 with open('CardContentWhite.csv', newline='') as csvfile:
-    cardreader = csv.reader(csvfile, delimiter=';')
+    cardreader = csv.reader(csvfile, delimiter=',')
     # This skips the first row of the CSV file.
     next(cardreader)
     for row in cardreader:
@@ -97,7 +116,7 @@ existing_pdf_paths = ["Open science agains humanity - black front - 88x63.pdf",
 output_stream = open("Open_Science_Against_Humanity_Black.pdf", "wb")
 combined_pages = PdfWriter()
 with open('CardContentBlack.csv', newline='') as csvfile:
-    cardreader = csv.reader(csvfile, delimiter=';')
+    cardreader = csv.reader(csvfile, delimiter=',')
     # This skips the first row of the CSV file.
     next(cardreader)
     for row in cardreader:
